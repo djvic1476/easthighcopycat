@@ -1,0 +1,36 @@
+body{
+        background-color:#D71920;
+        font-family: 'Roboto', sans-serif; 
+}
+div.header{
+    width: 100%;
+    background-color: #FFFFFF;
+}
+div.left{
+    float:left; 
+    width: 30%;
+    height: 500px;
+    background-color: #D71920;
+}
+div.center{
+    float: left;
+    width: 40%;
+    height: 500px;
+    
+}
+div.right{
+    float: left;
+    width: 30%;
+    height: 500px;
+    background-color:#11336A;
+}
+div.footer{
+    display: inline-block;
+    width: 100%;
+    height: 100px;
+    background-color: #FFFFFF;
+}
+img{
+    width: 100%
+        
+}
